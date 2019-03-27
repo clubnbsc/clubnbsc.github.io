@@ -1595,6 +1595,7 @@ pre code {
 @media (min-width: 1200px) {
   .container {
     width: 1170px;
+    background-color: purple;
   }
 }
 .container-fluid {

@@ -29,7 +29,7 @@ body a:hover{
 	-ms-transition:.5s ease-in-out;
 }
 .header {
-    background:#DDD634;
+    background-color:purple;
 }
 .navbar-brand{
 	font-size:2.5em;
@@ -595,7 +595,7 @@ top: 15% !important;
 /*-- footer-top --*/
 .footer-top{
 	padding:2em 0 0;
-	background:#fff;
+	background-color: purple;
 }
 .footer-top-grid h3{
 	background: #86B7FB;
@@ -604,6 +604,7 @@ top: 15% !important;
     color: #fff;
     margin: 0;
     font-family: 'Philosopher', sans-serif;
+    text-align: left;
 }
 .footer-top-grid p{
 	color: #999;
@@ -704,7 +705,7 @@ ul.last li{
 /*-- footer --*/
 .footer{
 	padding:1em 0;
-	background:#DDD634;
+	background-color:black;
 	text-align:center;
 }
 .footer p{
@@ -842,6 +843,7 @@ section#portfolio h3.text-center {
 /*-- about --*/
 .about,.typo {
     padding: 5em 0;
+    background-color: purple;
 }
 .about-grid h3,.history-left h3,.history-right h3,.gallery h3,.contact-left h3{
 	font-size:2em;
@@ -1536,6 +1538,7 @@ h2.typoh2{
 /*-- gallery --*/
 .gallery,.support{
 	padding:5em 0;
+	background-color: purple;
 }
 .gallery-grid{
 	float:left;
@@ -1635,6 +1638,7 @@ h2.typoh2{
 }
 .map {
     padding: 5em 0;
+    background-color: purple;
 }
 /*-- //contact --*/
 /*-- single --*/
