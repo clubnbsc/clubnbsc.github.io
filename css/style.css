@@ -204,63 +204,30 @@ span.menu{
 	min-height:600px;
 }
 .IMG_2648 {
-	background:url(.../NBSC/IMG_2648.jpg) no-repeat 0px 0px;
+	background:url(../NBSC/IMG_2648.jpg) no-repeat 0px 0px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;
 }
-.banner2{
-	background:url(../images/banner.jpg) no-repeat 0px 0px;
+.IMG_3906 {
+	background:url(../NBSC/IMG_3906.jpg) no-repeat 0px 0px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;
 }
-.banner3{
-	background:url(../images/banner2.jpg) no-repeat 0px 0px;
+.IMG_3999 {
+	background:url(../NBSC/IMG_3999.jpg) no-repeat 0px 0px;
 	background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;
 }
-.banner-info{
-	padding:2em;
-	background:rgba(0, 0, 0, 0.62);
-}
-.banner-info h1{
-	text-transform:capitalize;
-	font-size:2em;
-	margin:0;
-	color:#fff;
-	font-family: 'Philosopher', sans-serif;
-}
-.banner-info p{
-	font-size:14px;
-	color:#fff;
-	margin:1em 0;
-}
-.banner-info p span{	
-	display: block;
-    margin: 0 0 1em;
-    text-transform: capitalize;
-    font-size: 18px;
-    color: #D0D7FE;
-	font-family: 'Philosopher', sans-serif;
-}
-.banner-inf {
-    padding: 25.6em 0 0 0em;
-    text-align: center;
-}
-.banner-info ul{
-	padding:1em 0 0;
-}
-.banner-info ul li{
-	display:inline-block;
-}
+
 .banner-info ul li a.facebook{
 	background: url(../images/img-sp.png) no-repeat -18px -9px;
     display: block;
