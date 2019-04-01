@@ -785,7 +785,7 @@ section#portfolio h3.text-center {
     opacity: .7;
 }
 .modal-content {
-	background-color:rgba(221, 214, 52, 0.77);
+	background-color:#86B7FB;
 }
 .portfolio-modal .close-modal .lr {
     z-index: 1051;
