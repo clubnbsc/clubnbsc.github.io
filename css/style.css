@@ -203,33 +203,7 @@ span.menu{
 .banner1,.banner2,.banner3{
 	min-height:600px;
 }
-.IMG_4000{
-	background:url(..https://clubnbsc.github.io/images/IMG_4000.JPG) no-repeat 0px 0px;
-	background-size: cover;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	-ms-background-size: cover;
-	height:500px;
-}
-.IMG_4005 {
-	background:url(..https://clubnbsc.github.io/images/IMG_4005.JPG) 
-	background-size: cover;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	-ms-background-size: cover;
-	height:500px;
-}
-.IMG_3999 {
-	background:url(..https://clubnbsc.github.io/images/IMG_3999.JPG) no-repeat 0px 0px;
-	background-size: cover;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	-ms-background-size: cover;
-	height:500px;
-}
+
 
 .banner-info ul li a.facebook{
 	background: url(../images/img-sp.png) no-repeat -18px -9px;
