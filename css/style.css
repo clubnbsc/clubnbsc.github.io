@@ -203,7 +203,33 @@ span.menu{
 .banner1,.banner2,.banner3{
 	min-height:600px;
 }
-
+.IMG_2648 {
+	background:url(../NBSC/IMG_2648.jpg) no-repeat 0px 0px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-ms-background-size: cover;
+	height:200px;
+}
+.IMG_3906 {
+	background:url(../NBSC/IMG_3906.jpg) no-repeat 0px 0px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-ms-background-size: cover;
+	height:200px;
+}
+.IMG_3999 {
+	background:url(../NBSC/IMG_3999.jpg) no-repeat 0px 0px;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	-ms-background-size: cover;
+	height:00px;
+}
 
 .banner-info ul li a.facebook{
 	background: url(../images/img-sp.png) no-repeat -18px -9px;
