@@ -10,10 +10,14 @@ html, body{
 	background:	#fff;
 	font-family: 'Open Sans', sans-serif;
 }
-.phone p {
-	color: #fff;
-	font-size: 25px;
-	margin-top: 20px;
+@media screen and (max-width: 480px) {
+	.six, .four {
+		width: 100%;
+	}
+
+	.phone p {
+		font-size: 18px;
+	}
 }
 p{
 	margin:0;
