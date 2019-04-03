@@ -43,6 +43,9 @@ audio:not([controls]) {
 template {
   display: none;
 }
+.flexible-image {
+  max-width: 100%;
+}
 a {
   background-color: transparent;
 }

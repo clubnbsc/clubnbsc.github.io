@@ -10,6 +10,10 @@ html, body{
 	background:	#fff;
 	font-family: 'Open Sans', sans-serif;
 }
+.flexible-image{
+max-width: 100%;
+}
+
 p{
 	margin:0;
 }
@@ -210,6 +214,7 @@ span.menu{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;
+	height:200px;
 }
 .IMG_3906 {
 	background:url(../NBSC/IMG_3906.jpg) no-repeat 0px 0px;
@@ -218,6 +223,7 @@ span.menu{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;
+	height:200px;
 }
 .IMG_3999 {
 	background:url(../NBSC/IMG_3999.jpg) no-repeat 0px 0px;
@@ -226,6 +232,7 @@ span.menu{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	-ms-background-size: cover;
+	height:200px;
 }
 
 .banner-info ul li a.facebook{
