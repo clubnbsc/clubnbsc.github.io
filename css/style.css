@@ -10,10 +10,10 @@ html, body{
 	background:	#fff;
 	font-family: 'Open Sans', sans-serif;
 }
-.IMG_4018.JPG {
-	width: 50%;
-	height: 50%;
+.flexible-image{
+max-width: 100%;
 }
+
 p{
 	margin:0;
 }
